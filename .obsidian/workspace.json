@@ -67,10 +67,14 @@
             "id": "cffb0b72b88901ac",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Implementing Static NAT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Implementing Static NAT"
             }
           },
           {
@@ -237,6 +241,14 @@
   },
   "active": "cffb0b72b88901ac",
   "lastOpenFiles": [
+    "IP Services/Static NAT.md",
+    "Implementing Static NAT.md",
+    "IP Services/Dynamic NAT.md",
+    "IP Services/NAT.md",
+    "OSI model.md",
+    "IP Services/Port Address Translation (PAT) (also called NAT Overload).md",
+    "IP Services/IP Services.md",
+    "IP Services",
     "IP Connectivity/A AI explination to static routes I needed.md",
     "IP Connectivity/Subnetting.md",
     "IP Connectivity/MAC address,.md",
@@ -256,14 +268,7 @@
     "Network Access/VLAN.md",
     "Network Access/VLAN Leaking.md",
     "Network Access/Trunk Ports.md",
-    "Network Access/Network Access.md",
-    "IP Connectivity/EGP.md",
-    "IP Connectivity/RIP.md",
-    "IP Connectivity/EIGRP.md",
     "Network Access/Pasted image 20250310152908.png",
-    "Network Access/Network Access Commands.md",
-    "Network Access/Access ports.md",
-    "Network Access/SVI.md",
     "Network Access",
     "IP Connectivity",
     "IPV4&6&OSI",
@@ -281,7 +286,6 @@
     "ccna-definitions-vault-main/30 - Mnemonics and Summaries",
     "ccna-definitions-vault-main/20 - Definitions/sync.ffs_db",
     "ccna-definitions-vault-main/20 - Definitions",
-    "ccna-definitions-vault-main/15 - OSI Layers",
-    "ccna-definitions-vault-main/10 - Guides and Management/sync.ffs_db"
+    "ccna-definitions-vault-main/15 - OSI Layers"
   ]
 }
