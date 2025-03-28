@@ -1,4 +1,4 @@
-Related: [[NAT]]
+Related: [[NAT]], [[Implementing PAT]]
 Definition:
 Port Network Address Translation (Port NAT), also called Port Address Translation (PAT), is a type of NAT that allows multiple devices on a private network to share a single public IP address by using different port numbers. PAT is also referred to as NAT Overload.
 

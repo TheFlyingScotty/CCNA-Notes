@@ -1,4 +1,4 @@
-Related: [[NAT]]
+Related: [[NAT]], [[Implementing Dynamic NAT]]
 Definition:
 Dynamic Network Address Translation (Dynamic NAT) is a type of NAT where a pool of public IP addresses is used to dynamically map private IP addresses. Unlike Static NAT, the mapping is not fixed and changes as needed, depending on the availability of public IP addresses in the pool.
 

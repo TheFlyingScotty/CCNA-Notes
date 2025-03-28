@@ -1,1 +1,1 @@
-Related: [[NAT]]
+Related: [[NAT]],[[NTP]]
