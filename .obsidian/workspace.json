@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IP Services/NTP.md",
+                "file": "IP Services/Syslog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NTP"
+              "title": "Syslog"
             }
           },
           {
@@ -224,13 +224,17 @@
   "active": "d4eebac528b575c6",
   "lastOpenFiles": [
     "IP Services/IP Services.md",
-    "IP Services/NTP.md",
+    "IP Services/Syslog.md",
+    "IP Services/DNS.md",
     "IP Services/NAT.md",
+    "IP Services/Configuring an NTP Client.md",
+    "IP Services/Configuring an NTP Server.md",
+    "IP Services/NTP.md",
+    "IP Services/Port Address Translation (PAT) (also called NAT Overload).md",
     "Network Access/Network Access Commands.md",
     "Network Access/Dynamic Trunking Protocol.md",
     "Network Access/Router on a stick.md",
     "IP Services/Implementing PAT.md",
-    "IP Services/Port Address Translation (PAT) (also called NAT Overload).md",
     "IP Services/Implementing Static NAT.md",
     "IP Services/Static NAT.md",
     "IP Services/Dynamic NAT.md",
@@ -247,10 +251,6 @@
     "IP Connectivity/IP address.md",
     "IP Connectivity/IGRP.md",
     "IP Connectivity/HSRP States.md",
-    "IP Connectivity/HSRP.md",
-    "IP Connectivity/Configure OSPFv2 Adjacencies.md",
-    "IP Connectivity/Static Route.md",
-    "IP Connectivity/OSPF Troubleshooting.md",
     "Network Access/Pasted image 20250310152908.png",
     "Network Access",
     "IP Connectivity",

@@ -1,4 +1,4 @@
-Related: [[IP Services]]
+Related: [[IP Services]], [[Configuring an NTP Client]],[[Configuring an NTP Server]]
 Definition:
 Network Time Protocol (NTP) is a protocol used to synchronize the clocks of devices on a network to a common time source. NTP ensures that all devices in a network have accurate and consistent time, which is critical for logging, security, and time-sensitive applications.
 

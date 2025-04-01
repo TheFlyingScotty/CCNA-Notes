@@ -1,1 +1,1 @@
-Related: [[NAT]],[[NTP]]
+Related: [[NAT]],[[NTP]], [[DNS]],[[Syslog]]
