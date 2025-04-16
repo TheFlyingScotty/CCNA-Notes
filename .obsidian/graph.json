@@ -1,17 +1,45 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "",
+      "query": "IP Connectivity",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 37375
+      }
+    },
+    {
+      "query": "IP Security",
+      "color": {
+        "a": 1,
+        "rgb": 15609730
+      }
+    },
+    {
+      "query": "IP Services",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "Network Access",
+      "color": {
+        "a": 1,
+        "rgb": 16514826
+      }
+    },
+    {
+      "query": "Network Fundamentals",
+      "color": {
+        "a": 1,
+        "rgb": 1376177
       }
     }
   ],
@@ -25,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224465,
-  "close": true
+  "scale": 0.36288736930121435,
+  "close": false
 }
