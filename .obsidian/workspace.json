@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Fundementals/VRF.md",
+                "file": "Network Access/WLC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VRF"
+              "title": "WLC"
             }
           },
           {
@@ -209,8 +209,11 @@
   },
   "active": "aa99ee8607cde13d",
   "lastOpenFiles": [
-    "Network Fundementals/SSID , RF , Nonoverlapping WI-FI Channels and Encryption.md",
+    "Network Access/AP Modes.md",
+    "Network Access/WLC.md",
+    "Network Fundementals/Switching Concepts MAC Learning and Aging, Frame Switching, Frame Flooding, Mac Address Table.md",
     "Network Fundementals/VRF.md",
+    "Network Fundementals/SSID , RF , Nonoverlapping WI-FI Channels and Encryption.md",
     "Network Fundementals/IPV6 EUI 64.md",
     "Network Fundementals/IPV6.md",
     "Network Fundementals/IPV6 Multicast.md",
@@ -233,9 +236,6 @@
     "Network Fundementals/Network Fundamentals.md",
     "IP Security/AAA.md",
     "Network Fundementals",
-    "IP Security/IP Security.md",
-    "IP Security/access control lists (ACL).md",
-    "IP Security/ACL Commands.md",
     "IP Security",
     "IP Services",
     "Network Access/Pasted image 20250310152908.png",
