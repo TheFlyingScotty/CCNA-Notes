@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Access/Dynamic Trunking Protocol.md",
+                "file": "Network Fundementals/VRF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Trunking Protocol"
+              "title": "VRF"
             }
           },
           {
@@ -209,6 +209,17 @@
   },
   "active": "aa99ee8607cde13d",
   "lastOpenFiles": [
+    "Network Fundementals/SSID , RF , Nonoverlapping WI-FI Channels and Encryption.md",
+    "Network Fundementals/VRF.md",
+    "Network Fundementals/IPV6 EUI 64.md",
+    "Network Fundementals/IPV6.md",
+    "Network Fundementals/IPV6 Multicast.md",
+    "Network Fundementals/IPV6 Anycast.md",
+    "Network Fundementals/IPV6 Unicast.md",
+    "Wildcard mask.md",
+    "Network Fundementals/UDP.md",
+    "Network Fundementals/TCP.md",
+    "Network Access/Dynamic Trunking Protocol.md",
     "IP Connectivity/IGRP.md",
     "Network Fundementals/Servers.md",
     "Network Fundementals/Endpoints.md",
@@ -225,17 +236,6 @@
     "IP Security/IP Security.md",
     "IP Security/access control lists (ACL).md",
     "IP Security/ACL Commands.md",
-    "IP Security/Extended ACL.md",
-    "IP Security/Named ACL.md",
-    "IP Security/Standard ACL.md",
-    "IP Services/DHCP Commands.md",
-    "IP Services/FTP Commands.md",
-    "IP Services/FTP.md",
-    "IP Services/IP Services.md",
-    "IP Services/TFTP.md",
-    "IP Services/TFTP Commands.md",
-    "IP Services/SSH.md",
-    "IP Services/SSH Commands.md",
     "IP Security",
     "IP Services",
     "Network Access/Pasted image 20250310152908.png",
