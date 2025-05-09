@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Access/AP Modes.md",
+                "file": "IP Connectivity/SDM Switch Database Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AP Modes"
+              "title": "SDM Switch Database Management"
             }
           },
           {
@@ -223,13 +223,15 @@
   },
   "active": "6e3ba0ef1a7c825a",
   "lastOpenFiles": [
+    "IP Connectivity/SDM Switch Database Management.md",
+    "Network Access/WLC.md",
+    "IP Connectivity/Static Route.md",
+    "Network Access/AP Modes.md",
     "Network Access/Access ports.md",
     "Network Access/Pasted image 20250310152908.png",
     "Network Access/Rapid-PVST+.md",
     "Network Access/CDP.md",
     "Network Access/LLDP.md",
-    "Network Access/AP Modes.md",
-    "Network Access/WLC.md",
     "Network Fundementals/Switching Concepts MAC Learning and Aging, Frame Switching, Frame Flooding, Mac Address Table.md",
     "Network Fundementals/VRF.md",
     "Network Fundementals/SSID , RF , Nonoverlapping WI-FI Channels and Encryption.md",
@@ -248,8 +250,6 @@
     "Network Fundementals/Controllers ( Cisco DNA center and WLC).md",
     "Network Fundementals/Access Points.md",
     "Network Fundementals/IPS.md",
-    "Network Fundementals/Next Generation Firewalls.md",
-    "Network Fundementals/Layer 2 Switches.md",
     "Network Fundementals",
     "IP Security",
     "IP Services",
