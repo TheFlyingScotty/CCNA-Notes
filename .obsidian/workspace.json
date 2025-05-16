@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IP Connectivity/SDM Switch Database Management.md",
+                "file": "Network Access/How does STP operate and make decision's.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDM Switch Database Management"
+              "title": "How does STP operate and make decision's"
             }
           },
           {
@@ -106,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "802",
+                "query": "stp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,13 +223,26 @@
   },
   "active": "6e3ba0ef1a7c825a",
   "lastOpenFiles": [
-    "IP Connectivity/SDM Switch Database Management.md",
+    "Network Access/Network Access.md",
+    "Network Access/How does STP operate and make decision's.md",
+    "Network Access/Rapid-PVST+.md",
+    "Automation and Programming/XML.md",
+    "Automation and Programming/Rest API.md",
+    "Automation and Programming/Automation and Programming.md",
     "Network Access/WLC.md",
+    "Automation and Programming",
+    "IP Security/ACL Commands.md",
+    "IP Security/IP Security.md",
+    "IP Security/Extended ACL.md",
+    "IP Security/Standard ACL.md",
+    "IP Security/Named ACL.md",
+    "IP Security/access control lists (ACL).md",
+    "IP Connectivity/HSRP.md",
+    "IP Connectivity/SDM Switch Database Management.md",
     "IP Connectivity/Static Route.md",
     "Network Access/AP Modes.md",
     "Network Access/Access ports.md",
     "Network Access/Pasted image 20250310152908.png",
-    "Network Access/Rapid-PVST+.md",
     "Network Access/CDP.md",
     "Network Access/LLDP.md",
     "Network Fundementals/Switching Concepts MAC Learning and Aging, Frame Switching, Frame Flooding, Mac Address Table.md",
@@ -238,18 +251,6 @@
     "Network Fundementals/IPV6 EUI 64.md",
     "Network Fundementals/IPV6.md",
     "Network Fundementals/IPV6 Multicast.md",
-    "Network Fundementals/IPV6 Anycast.md",
-    "Network Fundementals/IPV6 Unicast.md",
-    "Wildcard mask.md",
-    "Network Fundementals/UDP.md",
-    "Network Fundementals/TCP.md",
-    "Network Access/Dynamic Trunking Protocol.md",
-    "IP Connectivity/IGRP.md",
-    "Network Fundementals/Servers.md",
-    "Network Fundementals/Endpoints.md",
-    "Network Fundementals/Controllers ( Cisco DNA center and WLC).md",
-    "Network Fundementals/Access Points.md",
-    "Network Fundementals/IPS.md",
     "Network Fundementals",
     "IP Security",
     "IP Services",
@@ -267,7 +268,6 @@
     "ccna-definitions-vault-main/Attachments/TCP-IP Suite Encapsulation-1.png",
     "ccna-definitions-vault-main/Attachments",
     "ccna-definitions-vault-main/30 - Mnemonics and Summaries/Learning to Study",
-    "ccna-definitions-vault-main/30 - Mnemonics and Summaries",
-    "ccna-definitions-vault-main/20 - Definitions/sync.ffs_db"
+    "ccna-definitions-vault-main/30 - Mnemonics and Summaries"
   ]
 }
